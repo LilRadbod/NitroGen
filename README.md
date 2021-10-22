@@ -8,7 +8,7 @@ NodeJS Discord nitro generator
 2. Run install_and_run to install dependencies and run the generator
 
 # How does it work
-It's trying to generate valid invite code by generating random 16 letter long string which is being sent to discordapp.com to see if it's valid. 
+It Generates Random 16 Charachter Line of Text that then gets checked by the Checker to see if its Valid or not. 
 
 **It can take few hours before you get valid nitro code, the time is depending on speed of your wifi and proxies.**
 
