@@ -1,7 +1,7 @@
 # NitroGen
 NodeJS Discord nitro generator 
 
-![Picture](https://snag.gy/ixNDgK.jpg)
+![Picture](https://imgur.com/a/IGj54MK)
 
 # How to use
 1. In proxies.txt put your fresh HTTP proxies
