@@ -1,5 +1,5 @@
-title Nitro Generator HAPPY HALOWEEN
-color e
+title Nitro Generator
+color a
 cls
 @ECHO OFF
 node app.js
